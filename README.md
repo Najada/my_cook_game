@@ -11,8 +11,9 @@ Having a pleasant user interface is one of the details that makes a good quality
 
 <img src="https://github.com/Najada/my_cook_game/blob/master/sc/cook1.png">
 
-https://github.com/Najada/my_cook_game/blob/master/sc/cook2.png
+<img src="https://github.com/Najada/my_cook_game/blob/master/sc/cook2.png">
 
-https://github.com/Najada/my_cook_game/blob/master/sc/cook3.png
+<img src="https://github.com/Najada/my_cook_game/blob/master/sc/cook3.png">
 
-https://github.com/Najada/my_cook_game/blob/master/sc/cook4.png
+<img src="https://github.com/Najada/my_cook_game/blob/master/sc/cook4.png">
+
