@@ -1,0 +1,7 @@
+Spicy Bacon Pasta
+Tomatos, Pasta, Bacon, Peperoni
+tlrn
+231
+20
+assets/img/pasta.png
+

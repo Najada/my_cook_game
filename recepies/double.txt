@@ -1,0 +1,7 @@
+Double Strawberry
+2 Pancakes, Strawberry, Butter
+ppsb
+42
+25
+assets/img/strawberry.png
+
